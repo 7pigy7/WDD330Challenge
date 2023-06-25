@@ -1,0 +1,152 @@
+[
+    {
+    "Branch" : "Start",
+    "Text" : "Welcome to If Adventure",
+    "Choices" : [
+        {
+            "C1" : "Contiune"
+        }
+    ]
+    },
+    {
+    "Branch" : "Fork in Road",
+    "Text" : "You are walking along a path in a forest, when you come to a fork in the road. There is a sign, but it is too worn to read. The path to the right looks well worn. The path to the left is overgrown. Which way do you go?",
+    "Choices" : [
+        {
+            "C1" : "Right",
+            "C2" : "Left"
+        }
+    ]
+    },
+    {
+        "Branch" : "Right to City",
+        "Text" : "After walking along the well worn path for an hour, you come to a city. The gate has two guards stationed there. You will have to pay to enter the city, but the fee will take half of the money you have. However, you could try to sneak into the city.",
+        "Choices" : [
+            {
+                "C1" : "Pay",
+                "C2" : "Sneak"
+            }
+        ]
+    },
+    {
+        "Branch" : "Pay",
+        "Text" : "After paying the fee, you go exploring in the city. You find an inn, a resturant, and a bazzar. Which do you go into?",
+        "Choices" : [
+            {
+                "C1" : "Inn",
+                "C2" : "Restrant",
+                "C3" : "Bazzar"
+            }
+        ]
+    },
+    {
+        "Branch" : "Inn",
+        "Text" : "While you are there you meet your hero. You were able to talk to them foe a while and at the end they gave you their autograph."
+    },
+    {
+        "Branch" : "Restrant",
+        "Text" : "The meal you order at the restrant was the best food that you've ever had."
+    },
+    {
+        "Branch" : "Bazzar",
+        "Text" : "Inside the bazzar, there are three items being avartised as magical, a cloak, a mirror, and a blank book. You only have enghouh money to buy one. Which on do you buy?",
+        "Choices" : [
+            {
+                "C1" : "Cloak",
+                "C2" : "Mirror",
+                "C3" : "Book"
+            }
+        ]
+    },
+    {
+        "Branch" : "Cloak",
+        "Text" : "The magic the cloak sielences your footsteps and allows you to merge with the shadows."
+    },
+    {
+        "Branch" : "Mirror",
+        "Text" : "The mirror has the abiltiy to show you the future, but it can only be used once a day."
+    }, 
+    {
+        "Branch" : "Book",
+        "Text" : "The book will answer any question you write in it."
+    },
+    {
+        "Branch" : "Sneak",
+        "Text" : "The gaurds catch you trying to sneak in and you are sent to jail. While in prison you meet another prisoner. He offers you the chocie of one Item to help you escape, a wire, a shovel, or a knife. Which do you choose?",
+        "Choices" : [
+            {
+                "C1" : "Wire",
+                "C2" : "Shovle",
+                "C3" : "Knife"
+            }
+        ]
+    },
+    {
+        "Branch" : "Wire",
+        "Text" : "You were able to use the wire to pick the lock and you manage to escape."
+    },
+    {
+        "Branch" : "Shovle",
+        "Text" : "You use the shovle to tunnle your way out and into the forest."
+    },
+    {
+        "Branch" : "Knife",
+        "Text" : "You use the knife to fight the gaurds. You lose the fight and are sentenced to ten years in prison."
+    },
+    {
+        "Branch" : "Swamp",
+        "Text" : "After pushing your way through, a swamp blocks your path. Looking back you can't see where you came from. Then you notic a boat and a house off to one side. You could simply take the baot across the swamp or you could ask for permission.",
+        "Choices" : [
+            {
+                "C1" : "Take",
+                "C2" : "Ask"
+            }
+        ]
+    },
+    {
+        "Branch" : "Take",
+        "Text" : "You make your way across the swamp. Once you reach the far side you notice three things in the boat, a map, a potion, and a rope. Which one will you take?",
+        "Choices" : [
+            {
+                "C1" : "Map",
+                "C2" : "Potion",
+                "C3" : "Rope"
+            }
+        ]
+    },
+    {
+        "Branch" : "Map",
+        "Text" : "You open the map and find that it leads to a legendary pirate's treasure."
+    },
+    {
+        "Branch" : "Potion",
+        "Text" : "You drink tha potion and it gives you the abilty to fly."
+    },
+    {
+        "Branch" : "Rope",
+        "Text" : "The rope comes to life as soon as you touch it and ties you up. You can't escape."
+    },
+    {
+        "Branch" : "Ask",
+        "Text" : "A witch lives in the house and says you can use the boat if you help her with a chore first. You can help make dinner, help in the garden, or help make a potion. Which do you choose?",
+        "Choices" : [
+            {
+                "C1" : "Dinner",
+                "C2" : "Garden",
+                "C3" : "Potion"
+            }
+        ]
+    },
+    {
+        "Branch" : "Dinner",
+        "Text" : "Turns out that you are dinner. You have been eaten."
+    },
+    {
+        "Branch" : "Garden",
+        "Text" : "While helping in the garden, you find a secert passage that leads you to a beautiful underground city."
+    },
+    {
+        "Branch" : "Potion",
+        "Text" : "You do such a good job that the witch makes you her appentice."
+    }
+]
