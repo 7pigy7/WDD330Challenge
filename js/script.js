@@ -1,14 +1,9 @@
+import { loadHeaderFooter } from "./utils.mjs";
 //load header and footer?
-function loadHeaderandFooter(){
- //  <image src="/images/Logo.png" alt="Queen's Games Logo"></image>
-   // <nav>
-     //   <ul>
-       //     <li><a href="index.html">Home</a></li>
-         //   <li>If Adventure</li>
-           // <li>Number Guess</li>
-            //<li>Hangman</li>
-       // </ul>
-   // </nav>
-   return;
-}
+loadHeaderFooter();
 //template for text game?
+
+document.addEventListener("DOMContentLoaded", function() { 
+    //update the last modified text
+    document.getElementById("last-modified").innerHTML = document.lastModified;
+  });
