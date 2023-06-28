@@ -96,3 +96,9 @@ div.gameCard div {
     padding: 1rem;
     border-left: black solid;
 }
+div.gamePlay {
+    width: 85%;
+    height: 25rem;
+    margin: 3rem;
+    border: black solid;
+}
