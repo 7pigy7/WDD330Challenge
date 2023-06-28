@@ -97,8 +97,17 @@ div.gameCard div {
     border-left: black solid;
 }
 div.gamePlay {
-    width: 85%;
-    height: 25rem;
-    margin: 3rem;
+    width: 75%;
+    height: 30rem;
+    margin: 3rem auto;
     border: black solid;
+}
+
+div.howToPlay{
+    margin-left: 15rem;
+}
+
+div.howToPlay p {
+    padding-top: 0;
+    margin-top: 0;
 }
