@@ -40,6 +40,8 @@ function selectOption(option) {
   showTextNode(nextTextNodeId)
 }
 
+
+
 const textNodes = [
   {
     id: 1,
