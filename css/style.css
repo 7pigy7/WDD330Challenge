@@ -147,7 +147,7 @@ div.howToPlay p {
 /* Wordle */
 
 .gamePlay.wordlePlay {
-    height: 50rem;
+    height: 40rem;
     display: flex;
     flex-direction: column;
     min-height: 100hv;
