@@ -10,7 +10,6 @@ plus black and white
 body{
     font-family: 'Indie Flower', cursive;
     font-size: 24px;
-    
 }
 
 h1{font-size: 32px;}
@@ -69,6 +68,7 @@ a {
 
 main {
     padding: 0 2%;
+    margin: 3rem;
 }
 
 h1{text-align: center;}
@@ -76,7 +76,7 @@ h1{text-align: center;}
 div.gameCard{
     display: grid;
     grid-template-columns: 1fr 3fr;
-    margin: 1.5rem;
+    margin: 2rem;
     border: black solid;
 }
 
